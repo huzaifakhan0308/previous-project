@@ -1,0 +1,15 @@
+img#image {
+  max-width: 100%;
+}
+
+div#top-section {
+  background-color: #eee;
+  color: black;
+  padding: 20px;
+}
+
+a {
+  color: #74638f;
+  font-size: 25px;
+  font-weight: bold;
+}
